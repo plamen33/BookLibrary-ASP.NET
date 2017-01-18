@@ -1,0 +1,207 @@
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\roslyn\csc.exe
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\roslyn\System.Collections.Immutable.dll
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\roslyn\vbc.exe
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\roslyn\VBCSCompiler.exe
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\roslyn\VBCSCompiler.exe.config
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\BookLibrary.dll.config
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\BookLibrary.dll
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\BookLibrary.pdb
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\Antlr3.Runtime.dll
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\EntityFramework.dll
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\EntityFramework.SqlServer.dll
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\Microsoft.Owin.dll
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.dll
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.Google.dll
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\Newtonsoft.Json.dll
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\Owin.dll
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\System.Web.Helpers.dll
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\System.Web.Mvc.dll
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\System.Web.Optimization.dll
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\System.Web.Razor.dll
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\System.Web.WebPages.Deployment.dll
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\System.Web.WebPages.dll
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\System.Web.WebPages.Razor.dll
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\WebGrease.dll
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\System.Web.Helpers.xml
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\System.Web.Mvc.xml
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\System.Web.Optimization.xml
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\System.Web.Razor.xml
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\System.Web.WebPages.xml
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\System.Web.WebPages.Deployment.xml
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\System.Web.WebPages.Razor.xml
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\Antlr3.Runtime.pdb
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\Newtonsoft.Json.xml
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\EntityFramework.xml
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\EntityFramework.SqlServer.xml
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\Microsoft.Owin.xml
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.xml
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.Google.xml
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\obj\Debug\BookLibrary.csprojResolveAssemblyReference.cache
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\obj\Debug\BookLibrary.dll
+D:\Documents\2 Programming Projects\Visual Studio 2015\Projects\Software Technologies\BookLibrary\BookLibrary\obj\Debug\BookLibrary.pdb
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\roslyn\csc.exe
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\roslyn\System.Collections.Immutable.dll
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\roslyn\System.Reflection.Metadata.dll
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\roslyn\vbc.exe
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\roslyn\VBCSCompiler.exe
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\roslyn\VBCSCompiler.exe.config
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\BookLibrary.dll.config
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\BookLibrary.dll
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\BookLibrary.pdb
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\Antlr3.Runtime.dll
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\EntityFramework.dll
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\EntityFramework.SqlServer.dll
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\Microsoft.AspNet.Identity.Core.dll
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\Microsoft.Owin.dll
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.Cookies.dll
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.dll
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.Facebook.dll
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.Google.dll
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.OAuth.dll
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.Twitter.dll
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\Microsoft.Web.Infrastructure.dll
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\Newtonsoft.Json.dll
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\Owin.dll
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\System.Web.Helpers.dll
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\System.Web.Mvc.dll
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\System.Web.Optimization.dll
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\System.Web.Razor.dll
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\System.Web.WebPages.Deployment.dll
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\System.Web.WebPages.dll
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\System.Web.WebPages.Razor.dll
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\WebGrease.dll
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\System.Web.Helpers.xml
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\System.Web.Mvc.xml
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\System.Web.Optimization.xml
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\System.Web.Razor.xml
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\System.Web.WebPages.xml
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\System.Web.WebPages.Deployment.xml
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\System.Web.WebPages.Razor.xml
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\Antlr3.Runtime.pdb
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\Newtonsoft.Json.xml
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\EntityFramework.xml
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\EntityFramework.SqlServer.xml
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\Microsoft.AspNet.Identity.Core.xml
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\Microsoft.Owin.xml
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.xml
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.Facebook.xml
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.Cookies.xml
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.OAuth.xml
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.Google.xml
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.Twitter.xml
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\obj\Debug\BookLibrary.csprojResolveAssemblyReference.cache
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\obj\Debug\BookLibrary.dll
+D:\CsharpBlog SoftTech\Other\Small Csharp Exer Projects\BookLibrary\BookLibrary\obj\Debug\BookLibrary.pdb
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\roslyn\csc.exe
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\roslyn\System.Collections.Immutable.dll
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\roslyn\System.Reflection.Metadata.dll
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\roslyn\vbc.exe
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\roslyn\VBCSCompiler.exe
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\roslyn\VBCSCompiler.exe.config
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\BookLibrary.dll.config
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\BookLibrary.dll
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\BookLibrary.pdb
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\Antlr3.Runtime.dll
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\EntityFramework.dll
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\EntityFramework.SqlServer.dll
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\Microsoft.AspNet.Identity.Core.dll
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\Microsoft.Owin.dll
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.Cookies.dll
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.dll
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.Facebook.dll
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.Google.dll
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.OAuth.dll
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.Twitter.dll
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\Microsoft.Web.Infrastructure.dll
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\Newtonsoft.Json.dll
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\Owin.dll
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\System.Web.Helpers.dll
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\System.Web.Mvc.dll
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\System.Web.Optimization.dll
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\System.Web.Razor.dll
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\System.Web.WebPages.Deployment.dll
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\System.Web.WebPages.dll
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\System.Web.WebPages.Razor.dll
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\WebGrease.dll
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\System.Web.Helpers.xml
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\System.Web.Mvc.xml
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\System.Web.Optimization.xml
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\System.Web.Razor.xml
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\System.Web.WebPages.xml
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\System.Web.WebPages.Deployment.xml
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\System.Web.WebPages.Razor.xml
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\Antlr3.Runtime.pdb
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\Newtonsoft.Json.xml
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\EntityFramework.xml
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\EntityFramework.SqlServer.xml
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\Microsoft.AspNet.Identity.Core.xml
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\Microsoft.Owin.xml
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.xml
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.Facebook.xml
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.Cookies.xml
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.OAuth.xml
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.Google.xml
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.Twitter.xml
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\obj\Debug\BookLibrary.csprojResolveAssemblyReference.cache
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\obj\Debug\BookLibrary.dll
+D:\CsharpBlog SoftTech\z Small Csharp Projects\BookLibrary\BookLibrary\obj\Debug\BookLibrary.pdb
